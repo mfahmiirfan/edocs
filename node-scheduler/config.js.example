@@ -1,0 +1,10 @@
+const config = {
+    base_url: 'YOUR_BASE_URL',
+    base_es_url: 'YOUR_BASE_ELASTIC_URL',
+    es_username: 'YOUR_ELASTIC_USERNAME',
+    es_password: 'YOUR_ELASTIC_PASSWORD',
+    user_login: 'YOUR_USER_LOGIN',
+    password_login: 'YOUR_PASSWORD_LOGIN'
+};
+
+module.exports = config;
